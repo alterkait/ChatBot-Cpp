@@ -19,7 +19,21 @@
     Age = ThisYear - BirthYear;
     cout << "So you are " << Age << " years old.." << endl;
       
-    
-    
+    string FeelingResponse;
+    cout << "So how are you doing? << endl;
+    cin >> FeelingResponse;
+    get.cin
+      
+      string GoodResponse;
+      GoodResponse = "good", "great", "fine", "ok", "okay", "amazing", "fantastic";
+        if (cin.FeelingResponse = GoodResponse)
+          {
+            cout << "I'm glad!" << endl;
+          }
+          else
+            
+            
+            
+            
     return 0;
   }
