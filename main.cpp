@@ -24,8 +24,16 @@
     cin >> FeelingResponse;
     get.cin
       
-      string GoodResponse;
-      GoodResponse = "good", "great", "fine", "ok", "okay", "amazing", "fantastic";
+      string GoodResponse[7];
+        GoodResponse[0] = "good"; 
+        GoodResponse[1] = "great";
+        GoodResponse[2] = "fine";
+        GoodResponse[3] = "ok";
+        GoodResponse[4] = "okay";
+        GoodResponse[5] = "alright";
+        GoodResponse[6] = "well";
+        GoodResponse[7] = "excellent";
+          
         if (cin.FeelingResponse = GoodResponse)
           {
             cout << "I'm glad!" << endl;
