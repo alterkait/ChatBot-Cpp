@@ -40,11 +40,9 @@
           }
           else
           {
-            
+            cout << "Oh, hope you feel better!" << endl;
           }
-            
-            
-            
-            
+    
+       
     return 0;
   }
